@@ -21,6 +21,7 @@ Fragment
 1. 底部菜单栏
 
 ![image](https://github.com/ahuyangdong/TabCustom/raw/master/images/1.png)
+
 2. 头部滑动自适应导航栏
 
 ![image](https://github.com/ahuyangdong/TabCustom/raw/master/images/2.png)
