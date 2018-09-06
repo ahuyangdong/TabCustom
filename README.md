@@ -3,7 +3,7 @@
 ![platform](https://img.shields.io/badge/platform-Android-lightgrey.svg)
 ![Gradle](https://img.shields.io/badge/Gradle-3.1.2-brightgreen.svg)
 ![progress](http://progressed.io/bar/100?title=completed)
-![last commit](https://img.shields.io/github/last-commit/ahuyangdong/TabCustom.svg)
+[![last commit](https://img.shields.io/github/last-commit/ahuyangdong/TabCustom.svg)](https://github.com/ahuyangdong/TabCustom/commits/master)
 ![repo size](https://img.shields.io/github/repo-size/ahuyangdong/TabCustom.svg)
 [![Licence](https://img.shields.io/github/license/ahuyangdong/TabCustom.svg)](https://github.com/ahuyangdong/TabCustom/blob/master/LICENSE)
 
