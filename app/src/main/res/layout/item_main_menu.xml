@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/img_tab"
+        android:layout_width="24dip"
+        android:layout_height="24dip"
+        android:src="@drawable/menu_msg_default" />
+
+    <TextView
+        android:id="@+id/txt_tab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dip"
+        android:text="首页"
+        android:textColor="@drawable/txt_main_menu_selector"
+        android:textSize="11sp" />
+
+</LinearLayout>
