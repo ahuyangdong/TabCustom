@@ -42,3 +42,6 @@ Fragment
 4. 头部平铺导航栏（有限个数）
 
 ![image](https://github.com/ahuyangdong/TabCustom/raw/master/images/4.png)
+
+## 博客讲解
+https://blog.csdn.net/ahuyangdong/article/details/82493158
